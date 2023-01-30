@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661382082968",
+    "project_id": "updat-chat-app",
+    "storage_bucket": "updat-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661382082968:android:64e7bdd5f0385f8f1b3bed",
+        "android_client_info": {
+          "package_name": "com.example.updatchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661382082968-9pfvhb8t4nnjqmvrtkhk2rm3540um67l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdoguReTByiwvSafMUbsvMUbFiB6RoRlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661382082968-9pfvhb8t4nnjqmvrtkhk2rm3540um67l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
